@@ -1,0 +1,52 @@
+[class*=' najaf-forms_'] table th span {
+    float: right;
+}
+[class*=' najaf-forms_'] table {
+    direction: rtl;
+    text-align: right;
+}
+.edit_table_najaf tr td label{
+    display: block!important;
+}
+.edit_table_najaf tr td img{
+    height: 200px;
+    width: 300px;
+    object-fit: contain;
+    margin-top: 10px;
+}
+.edit_table_najaf tr td input{
+    width: 100%;
+}
+.edit_table_najaf tr td:nth-child(1){
+    width: 30%!important;
+}
+
+.edit_table_najaf tr td:nth-child(2){
+    width: 70%!important;
+}
+
+
+.validate_table_najaf tr td label{
+    display: block!important;
+}
+.validate_table_najaf tr td img{
+    height: 200px;
+    width: 300px;
+    object-fit: contain;
+    margin-top: 10px;
+}
+.validate_table_najaf tr td input{
+    width: 100%;
+}
+.validate_table_najaf tr td:nth-child(1){
+    width: 30%!important;
+}
+.validate_table_najaf tr td:nth-child(2){
+    width: 70%!important;
+}
+.validate_table_najaf tr td{
+    border: 1px solid lightgrey;
+}
+.audit-buttons{
+    margin-top: 20px;
+}
